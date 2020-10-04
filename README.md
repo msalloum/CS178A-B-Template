@@ -6,7 +6,6 @@
 - [How To Run](#how-to-run)
 - [Diagrams](#diagrams)
 - [Dependencies](#dependencies)
-- [License] (#license)
 
 ## Overview
 <Include project description?
@@ -67,5 +66,3 @@ Overall System Diagram
 ## Dependencies
 Install Node Package Manager (npm). [Helpful Documentation](https://www.npmjs.com/get-npm)
 
-## License
-[MIT](https://tldrlegal.com/license/mit-license)
